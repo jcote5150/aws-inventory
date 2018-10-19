@@ -1,0 +1,183 @@
+2018-10-19 13:54:52,320 ERROR Error while processing cloudfront, ap-south-1.
+'NoneType' object is not iterable
+2018-10-19 13:54:52,439 WARNING ec2 is not available (not supported?) in region ap-south-1.
+2018-10-19 13:54:52,522 ERROR Error while processing sqs, ap-south-1.
+'NoneType' object is not iterable
+2018-10-19 13:54:52,552 ERROR Error while processing cloudfront, ap-northeast-2.
+'NoneType' object is not iterable
+2018-10-19 13:54:52,721 ERROR Error while processing cloudfront, ap-northeast-1.
+'NoneType' object is not iterable
+2018-10-19 13:54:52,844 ERROR Error while processing cloudfront, ap-southeast-1.
+'NoneType' object is not iterable
+2018-10-19 13:54:52,972 ERROR Error while processing cloudfront, ap-southeast-2.
+'NoneType' object is not iterable
+2018-10-19 13:54:53,150 ERROR Error while processing cloudfront, sa-east-1.
+'NoneType' object is not iterable
+2018-10-19 13:54:53,276 ERROR Error while processing cloudfront, ca-central-1.
+'NoneType' object is not iterable
+2018-10-19 13:54:53,432 WARNING ec2 is not available (not supported?) in region ap-northeast-2.
+2018-10-19 13:54:53,541 ERROR Error while processing sqs, ap-northeast-2.
+'NoneType' object is not iterable
+2018-10-19 13:54:53,549 ERROR Error while processing cloudfront, eu-central-1.
+'NoneType' object is not iterable
+2018-10-19 13:54:53,737 ERROR Error while processing cloudfront, eu-west-3.
+'NoneType' object is not iterable
+2018-10-19 13:54:53,972 ERROR Error while processing cloudfront, eu-west-2.
+'NoneType' object is not iterable
+2018-10-19 13:54:53,976 WARNING cloudhsmv2 is not available (not supported?) in region ap-northeast-2.
+2018-10-19 13:54:54,117 ERROR Error while processing cloudfront, eu-west-1.
+'NoneType' object is not iterable
+2018-10-19 13:54:54,336 ERROR Error while processing cloudfront, us-east-1.
+'NoneType' object is not iterable
+2018-10-19 13:54:54,349 ERROR Error while processing sqs, ap-northeast-1.
+'NoneType' object is not iterable
+2018-10-19 13:54:54,605 ERROR Error while processing cloudfront, us-east-2.
+'NoneType' object is not iterable
+2018-10-19 13:54:54,777 ERROR Error while processing cloudfront, us-west-1.
+'NoneType' object is not iterable
+2018-10-19 13:54:54,916 ERROR Error while processing cloudfront, us-west-2.
+'NoneType' object is not iterable
+2018-10-19 13:54:55,379 ERROR Error while processing sqs, ap-southeast-1.
+'NoneType' object is not iterable
+2018-10-19 13:54:56,059 WARNING mq is not available (not supported?) in region ap-south-1.
+2018-10-19 13:54:56,440 ERROR Error while processing sqs, ap-southeast-2.
+'NoneType' object is not iterable
+2018-10-19 13:54:57,196 ERROR Error while processing sqs, sa-east-1.
+'NoneType' object is not iterable
+2018-10-19 13:54:57,404 ERROR Error while processing sqs, ca-central-1.
+'NoneType' object is not iterable
+2018-10-19 13:54:57,531 WARNING ec2 is not available (not supported?) in region sa-east-1.
+2018-10-19 13:54:57,602 WARNING cloudhsmv2 is not available (not supported?) in region sa-east-1.
+2018-10-19 13:54:57,821 WARNING ec2 is not available (not supported?) in region ca-central-1.
+2018-10-19 13:54:58,281 ERROR Error while processing sqs, eu-central-1.
+'NoneType' object is not iterable
+2018-10-19 13:54:58,344 WARNING eks is not available (not supported?) in region ap-south-1.
+2018-10-19 13:54:58,799 WARNING codestar is not available (not supported?) in region ap-south-1.
+2018-10-19 13:54:58,882 WARNING batch is not available (not supported?) in region eu-west-3.
+2018-10-19 13:54:58,910 ERROR Error while processing sqs, eu-west-3.
+'NoneType' object is not iterable
+2018-10-19 13:54:59,053 WARNING workmail is not available (not supported?) in region ap-south-1.
+2018-10-19 13:54:59,174 WARNING cloudhsmv2 is not available (not supported?) in region eu-west-3.
+2018-10-19 13:54:59,301 WARNING ec2 is not available (not supported?) in region eu-west-3.
+2018-10-19 13:54:59,333 WARNING route53domains is not available (not supported?) in region ap-south-1.
+2018-10-19 13:54:59,486 ERROR Error while processing sqs, eu-west-2.
+'NoneType' object is not iterable
+2018-10-19 13:54:59,725 WARNING ec2 is not available (not supported?) in region eu-west-2.
+2018-10-19 13:55:00,152 WARNING cloudsearch is not available (not supported?) in region ap-south-1.
+2018-10-19 13:55:00,217 ERROR Error while processing sqs, eu-west-1.
+'NoneType' object is not iterable
+2018-10-19 13:55:00,450 ERROR Error while processing sqs, us-east-1.
+'NoneType' object is not iterable
+2018-10-19 13:55:00,587 WARNING datapipeline is not available (not supported?) in region ap-south-1.
+2018-10-19 13:55:00,620 ERROR Error while processing sqs, us-east-2.
+'NoneType' object is not iterable
+2018-10-19 13:55:01,177 ERROR Error while processing sqs, us-west-1.
+'NoneType' object is not iterable
+2018-10-19 13:55:01,499 WARNING ec2 is not available (not supported?) in region us-west-1.
+2018-10-19 13:55:01,698 ERROR Error while processing sqs, us-west-2.
+'NoneType' object is not iterable
+2018-10-19 13:55:02,480 WARNING alexaforbusiness is not available (not supported?) in region ap-south-1.
+2018-10-19 13:55:02,815 WARNING clouddirectory is not available (not supported?) in region ap-south-1.
+2018-10-19 13:55:03,404 WARNING mq is not available (not supported?) in region sa-east-1.
+2018-10-19 13:55:03,687 WARNING workmail is not available (not supported?) in region ap-northeast-2.
+2018-10-19 13:55:04,471 WARNING datapipeline is not available (not supported?) in region ap-northeast-2.
+2018-10-19 13:55:04,544 WARNING glacier is not available (not supported?) in region sa-east-1.
+2018-10-19 13:55:04,616 WARNING efs is not available (not supported?) in region ap-south-1.
+2018-10-19 13:55:04,757 WARNING eks is not available (not supported?) in region ap-northeast-2.
+2018-10-19 13:55:07,447 WARNING sns is not available (not supported?) in region ca-central-1.
+2018-10-19 13:55:07,714 WARNING batch is not available (not supported?) in region eu-west-3.
+2018-10-19 13:55:07,845 WARNING eks is not available (not supported?) in region ap-northeast-1.
+2018-10-19 13:55:08,363 WARNING sns is not available (not supported?) in region eu-west-3.
+2018-10-19 13:55:08,738 WARNING sns is not available (not supported?) in region eu-west-2.
+2018-10-19 13:55:09,212 WARNING clouddirectory is not available (not supported?) in region ap-northeast-2.
+2018-10-19 13:55:09,378 WARNING sns is not available (not supported?) in region us-east-2.
+2018-10-19 13:55:10,092 WARNING route53domains is not available (not supported?) in region ap-northeast-2.
+2018-10-19 13:55:11,295 WARNING cloudsearch is not available (not supported?) in region ca-central-1.
+2018-10-19 13:55:11,887 WARNING autoscaling-plans is not available (not supported?) in region ap-south-1.
+2018-10-19 13:55:12,468 WARNING efs is not available (not supported?) in region sa-east-1.
+2018-10-19 13:55:12,495 WARNING mq is not available (not supported?) in region ca-central-1.
+2018-10-19 13:55:12,601 WARNING cloudhsm is not available (not supported?) in region ap-south-1.
+2018-10-19 13:55:12,661 WARNING autoscaling-plans is not available (not supported?) in region ap-northeast-2.
+2018-10-19 13:55:12,826 WARNING datapipeline is not available (not supported?) in region ap-southeast-1.
+2018-10-19 13:55:13,124 WARNING alexaforbusiness is not available (not supported?) in region ap-northeast-2.
+2018-10-19 13:55:13,332 WARNING workmail is not available (not supported?) in region ap-northeast-1.
+2018-10-19 13:55:13,344 WARNING autoscaling-plans is not available (not supported?) in region ap-northeast-1.
+2018-10-19 13:55:13,668 WARNING codestar is not available (not supported?) in region sa-east-1.
+2018-10-19 13:55:15,224 WARNING autoscaling-plans is not available (not supported?) in region ap-southeast-2.
+2018-10-19 13:55:15,516 WARNING batch is not available (not supported?) in region eu-west-3.
+2018-10-19 13:55:15,897 WARNING autoscaling-plans is not available (not supported?) in region sa-east-1.
+2018-10-19 13:55:16,040 WARNING autoscaling-plans is not available (not supported?) in region ca-central-1.
+2018-10-19 13:55:16,556 WARNING autoscaling-plans is not available (not supported?) in region eu-central-1.
+2018-10-19 13:55:16,609 WARNING route53domains is not available (not supported?) in region ap-northeast-1.
+2018-10-19 13:55:16,977 WARNING autoscaling-plans is not available (not supported?) in region eu-west-3.
+2018-10-19 13:55:17,371 WARNING autoscaling-plans is not available (not supported?) in region eu-west-2.
+2018-10-19 13:55:17,495 WARNING eks is not available (not supported?) in region ap-southeast-1.
+2018-10-19 13:55:17,604 WARNING workmail is not available (not supported?) in region ap-southeast-1.
+2018-10-19 13:55:18,385 WARNING autoscaling-plans is not available (not supported?) in region us-west-1.
+2018-10-19 13:55:18,751 WARNING datapipeline is not available (not supported?) in region sa-east-1.
+2018-10-19 13:55:19,675 WARNING mq is not available (not supported?) in region eu-west-3.
+2018-10-19 13:55:20,460 WARNING clouddirectory is not available (not supported?) in region ap-northeast-1.
+2018-10-19 13:55:21,160 WARNING alexaforbusiness is not available (not supported?) in region ap-northeast-1.
+2018-10-19 13:55:21,435 WARNING efs is not available (not supported?) in region ca-central-1.
+2018-10-19 13:55:21,648 WARNING codestar is not available (not supported?) in region eu-west-3.
+2018-10-19 13:55:21,651 WARNING cloudhsm is not available (not supported?) in region ap-northeast-2.
+2018-10-19 13:55:21,827 WARNING eks is not available (not supported?) in region ap-southeast-2.
+2018-10-19 13:55:22,513 WARNING cloudhsm is not available (not supported?) in region ap-northeast-1.
+2018-10-19 13:55:23,465 WARNING cloudhsm is not available (not supported?) in region ap-southeast-1.
+2018-10-19 13:55:23,661 WARNING workmail is not available (not supported?) in region ap-southeast-2.
+2018-10-19 13:55:23,862 WARNING mq is not available (not supported?) in region eu-west-2.
+2018-10-19 13:55:24,374 WARNING cloudhsm is not available (not supported?) in region ap-southeast-2.
+2018-10-19 13:55:24,383 WARNING cloudsearch is not available (not supported?) in region eu-west-3.
+2018-10-19 13:55:24,925 WARNING datapipeline is not available (not supported?) in region ca-central-1.
+2018-10-19 13:55:27,572 WARNING cloudhsm is not available (not supported?) in region sa-east-1.
+2018-10-19 13:55:27,740 WARNING cloudhsm is not available (not supported?) in region ca-central-1.
+2018-10-19 13:55:27,744 WARNING datapipeline is not available (not supported?) in region eu-central-1.
+2018-10-19 13:55:28,117 WARNING route53domains is not available (not supported?) in region ap-southeast-1.
+2018-10-19 13:55:28,405 WARNING cloudhsm is not available (not supported?) in region eu-central-1.
+2018-10-19 13:55:28,489 WARNING clouddirectory is not available (not supported?) in region sa-east-1.
+2018-10-19 13:55:29,121 WARNING alexaforbusiness is not available (not supported?) in region ap-southeast-1.
+2018-10-19 13:55:29,549 WARNING eks is not available (not supported?) in region sa-east-1.
+2018-10-19 13:55:31,633 WARNING mq is not available (not supported?) in region ap-south-1.
+2018-10-19 13:55:32,295 WARNING efs is not available (not supported?) in region eu-west-3.
+2018-10-19 13:55:33,897 WARNING cloudsearch is not available (not supported?) in region eu-west-2.
+2018-10-19 13:55:34,156 WARNING workmail is not available (not supported?) in region sa-east-1.
+2018-10-19 13:55:35,498 WARNING datapipeline is not available (not supported?) in region eu-west-3.
+2018-10-19 13:55:35,821 WARNING cloudhsm is not available (not supported?) in region eu-west-3.
+2018-10-19 13:55:35,917 WARNING route53domains is not available (not supported?) in region ap-southeast-2.
+2018-10-19 13:55:36,884 WARNING eks is not available (not supported?) in region ca-central-1.
+2018-10-19 13:55:37,427 WARNING cloudsearch is not available (not supported?) in region us-east-2.
+2018-10-19 13:55:38,108 WARNING efs is not available (not supported?) in region eu-west-2.
+2018-10-19 13:55:38,753 WARNING workmail is not available (not supported?) in region ca-central-1.
+2018-10-19 13:55:38,943 WARNING datapipeline is not available (not supported?) in region eu-west-2.
+2018-10-19 13:55:39,912 WARNING alexaforbusiness is not available (not supported?) in region ap-southeast-2.
+2018-10-19 13:55:41,795 WARNING clouddirectory is not available (not supported?) in region eu-west-3.
+2018-10-19 13:55:42,605 WARNING workmail is not available (not supported?) in region eu-central-1.
+2018-10-19 13:55:43,737 WARNING eks is not available (not supported?) in region eu-central-1.
+2018-10-19 13:55:43,995 WARNING mq is not available (not supported?) in region sa-east-1.
+2018-10-19 13:55:45,492 WARNING datapipeline is not available (not supported?) in region us-east-2.
+2018-10-19 13:55:46,277 WARNING alexaforbusiness is not available (not supported?) in region sa-east-1.
+2018-10-19 13:55:47,134 WARNING cloudhsm is not available (not supported?) in region eu-west-2.
+2018-10-19 13:55:47,602 WARNING cloudhsm is not available (not supported?) in region eu-west-1.
+2018-10-19 13:55:47,786 WARNING cloudhsm is not available (not supported?) in region us-east-1.
+2018-10-19 13:55:47,896 WARNING cloudhsm is not available (not supported?) in region us-east-2.
+2018-10-19 13:55:47,940 WARNING clouddirectory is not available (not supported?) in region us-west-1.
+2018-10-19 13:55:48,198 WARNING cloudhsm is not available (not supported?) in region us-west-1.
+2018-10-19 13:55:48,418 WARNING eks is not available (not supported?) in region eu-west-3.
+2018-10-19 13:55:48,535 WARNING cloudhsm is not available (not supported?) in region us-west-2.
+2018-10-19 13:55:48,961 WARNING route53domains is not available (not supported?) in region sa-east-1.
+2018-10-19 13:55:50,000 WARNING mq is not available (not supported?) in region ca-central-1.
+2018-10-19 13:55:50,027 WARNING datapipeline is not available (not supported?) in region us-west-1.
+2018-10-19 13:55:50,765 WARNING workmail is not available (not supported?) in region eu-west-3.
+2018-10-19 13:55:51,639 WARNING alexaforbusiness is not available (not supported?) in region ca-central-1.
+2018-10-19 13:57:26,559 ERROR Error while processing sqs, us-east-1.
+'NoneType' object is not iterable
+2018-10-19 13:57:27,171 ERROR Error while processing cloudfront, us-east-1.
+'NoneType' object is not iterable
+2018-10-19 13:57:27,372 WARNING cloudhsm is not available (not supported?) in region us-east-1.
+2018-10-19 13:57:27,505 WARNING cloudhsm is not available (not supported?) in region us-east-1.
+2018-10-19 14:02:19,427 ERROR Error while processing sqs, us-east-1.
+'NoneType' object is not iterable
+2018-10-19 14:02:20,028 ERROR Error while processing cloudfront, us-east-1.
+'NoneType' object is not iterable
+2018-10-19 14:02:20,221 WARNING cloudhsm is not available (not supported?) in region us-east-1.
+2018-10-19 14:02:20,361 WARNING cloudhsm is not available (not supported?) in region us-east-1.

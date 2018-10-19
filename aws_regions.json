@@ -1,0 +1,10 @@
+{
+    "Regions": [
+        {
+            "RegionName": "us-east-1",
+            "Endpoint": "ec2.us-east-1.amazonaws.com",
+            "color": "LightSteelBlue"
+        }
+
+    ]
+}
